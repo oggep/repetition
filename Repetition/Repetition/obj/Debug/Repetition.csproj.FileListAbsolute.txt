@@ -1,0 +1,15 @@
+C:\Users\oskar.persson10\Documents\GitHub\repetition\Repetition\Repetition\bin\Debug\Repetition.exe.config
+C:\Users\oskar.persson10\Documents\GitHub\repetition\Repetition\Repetition\bin\Debug\Repetition.exe
+C:\Users\oskar.persson10\Documents\GitHub\repetition\Repetition\Repetition\bin\Debug\Repetition.pdb
+C:\Users\oskar.persson10\Documents\GitHub\repetition\Repetition\Repetition\obj\Debug\Repetition.csprojAssemblyReference.cache
+C:\Users\oskar.persson10\Documents\GitHub\repetition\Repetition\Repetition\obj\Debug\MainWindow.g.cs
+C:\Users\oskar.persson10\Documents\GitHub\repetition\Repetition\Repetition\obj\Debug\App.g.cs
+C:\Users\oskar.persson10\Documents\GitHub\repetition\Repetition\Repetition\obj\Debug\Repetition_MarkupCompile.cache
+C:\Users\oskar.persson10\Documents\GitHub\repetition\Repetition\Repetition\obj\Debug\Repetition_MarkupCompile.lref
+C:\Users\oskar.persson10\Documents\GitHub\repetition\Repetition\Repetition\obj\Debug\MainWindow.baml
+C:\Users\oskar.persson10\Documents\GitHub\repetition\Repetition\Repetition\obj\Debug\Repetition.g.resources
+C:\Users\oskar.persson10\Documents\GitHub\repetition\Repetition\Repetition\obj\Debug\Repetition.Properties.Resources.resources
+C:\Users\oskar.persson10\Documents\GitHub\repetition\Repetition\Repetition\obj\Debug\Repetition.csproj.GenerateResource.cache
+C:\Users\oskar.persson10\Documents\GitHub\repetition\Repetition\Repetition\obj\Debug\Repetition.csproj.CoreCompileInputs.cache
+C:\Users\oskar.persson10\Documents\GitHub\repetition\Repetition\Repetition\obj\Debug\Repetition.exe
+C:\Users\oskar.persson10\Documents\GitHub\repetition\Repetition\Repetition\obj\Debug\Repetition.pdb
