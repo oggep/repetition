@@ -25,18 +25,32 @@ namespace Repetition
             InitializeComponent();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void Button_Click1(object sender, RoutedEventArgs e)
         {
             
             if(Text1.Text == "Stonk")
             {
                 Text1.Text = "Text";
-                Knapp1.Content = "Stonk";
+                Knapp2.Content = "Stonk";
             }
             else
             {
                 Text1.Text = "Stonk";
-                Knapp1.Content = "Text";
+                Knapp2.Content = "Text";
+            }
+        }
+        private void Button_Click2(object sender, RoutedEventArgs e)
+        {
+
+            if (Text1.Text == "Text")
+            {
+                Text1.Text = "kaka";
+                Knapp2.Content = "Banan";
+            }
+            else
+            {
+                Text1.Text = "Stonk";
+                Knapp2.Content = "kaka";
             }
         }
     }
